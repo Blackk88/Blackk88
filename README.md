@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi I'm Aleksandr - @Blackk88 👋
 
-My name is Aleksandr, and I've started learning coding recently
 
-🌱 I’m currently learning HTML, CSS and JavaScript
+I've started coding month ago. I really love the process of learning.
+That's why I think developing is amazing - you're always learning.
+
+
+
+

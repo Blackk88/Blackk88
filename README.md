@@ -1,7 +1,7 @@
-## Hi I'm Aleksandr - @Blackk88 👋
+## Hi I'm Aleksandr 👋
 
 
-I've started to learn coding recently, really love it ❤️!
+Currently I'm learning ReactJS, and build some small projects...
 
 
 

@@ -1,10 +1,5 @@
 ## Hi I'm Aleksandr 👋
 
-
-Currently I'm learning ReactJS, and build some small projects...
-
-
-
 ### Skills
 
 <p align="left">

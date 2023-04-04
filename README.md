@@ -1,6 +1,6 @@
 <p align="center"><img src="./github-header-image.png"  style="width:auto;"/></p>
 
-<p align="center">Professional pokerplayer transitioning into the tech ♦️ Love coding and learning 🧑‍💻</p>
+<p align="center">Professional pokerplayer transitioning into tech ♦️ Love coding and learning 🧑‍💻</p>
 <p align="center">When I'm not coding I like to play videogames 🎮</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

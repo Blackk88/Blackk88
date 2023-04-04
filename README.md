@@ -1,4 +1,12 @@
-## Hi I'm Aleksandr 👋
+[![MasterHead](./github-header-image.png)](https://github.com/Blackk88)
+<Header align="center">
+  
+</Header>
+
+
+
+<p align="center">Professional pokerplayer transitioning into the tech ♦️ Love coding and learning 🧑‍💻 When I'm not coding I like to play videogames 🎮</p>
+
 
 ### Skills
 

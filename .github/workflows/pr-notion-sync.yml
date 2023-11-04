@@ -1,0 +1,16 @@
+name: Notion Sync PRs
+
+on:
+  pull_request:
+    types: [opened, edited, closed, reopened, assigned, unassigned, review_requested, review_request_removed, labeled, unlabeled]
+
+jobs:
+  notion_pr_sync:
+    runs-on: ubuntu-latest
+    name: Sync Pull Requests to Notion
+    steps:
+      - name: Sync Pull Requests to Notion
+        uses: tryfabric/notion-github-action@v1
+        with:
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          notion-db: ${{ secrets.NOTION_DATABASE }}

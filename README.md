@@ -3,8 +3,8 @@
 <p align="center">Frontend web developer ♦️ Love coding and learning 🧑‍💻</p>
 <p align="center">When I'm not coding I like to play videogames 🎮</p>
 
+<a align="center" href="https://app.daily.dev/blackk88"><p align="center"><img src="https://api.daily.dev/devcards/v2/oA7BWqQkKZdsGKZLEIxTt.png?r=4o7&type=default" width="356" alt="Alex's Dev Card"/></p></a>
 
-  <a align="center" href="https://app.daily.dev/alex-dev"><p align="center"><img src="https://api.daily.dev/devcards/dd69c357606349b4b58827b9bb358ed9.png?r=y2b" width="400" alt="Alex's Dev Card"/></p></a>
 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
